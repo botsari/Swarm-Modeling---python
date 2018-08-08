@@ -1,4 +1,4 @@
-# Swarm-Modeling---python
+# Swarm-Modeling---python demo code
 Modern object oriented demo code related to some of my past published work on emergent behavior in swarms
 
 FILES INCLUDED:
